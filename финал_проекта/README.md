@@ -8,4 +8,4 @@
 Обучить модели, которые будут выявлять ушедших клиентов
 
 ## Используемые библиотеки
-`панды` `numpy` `сиборн` `sklearn` `xgboost` `catboost` `лгбм`     
+`pandas` `numpy` `seaborn` `sklearn` `xgboost` `catboost` `lgbm`
